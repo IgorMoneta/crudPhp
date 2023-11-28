@@ -80,3 +80,11 @@ button#deletar {
     background-color: rgba(130, 0, 0, 0.801);
 }
 
+button#read {
+    background-color: rgb(88, 88, 245);
+}
+
+#read:hover {
+    background-color: rgba(53, 53, 156, 0.799);
+}
+
