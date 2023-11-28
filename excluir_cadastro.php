@@ -14,7 +14,7 @@
     $id = $_POST['id'];
     $nome = $_POST['nome'];
     $quantidade = $_POST['quantidade'];
-    $estoque = $_POST['estoque'];
+    $extraviado = $_POST['extraviado'];
     $data = $_POST['data']; 
 
 $sql = "DELETE FROM `bebidas` WHERE 0";
